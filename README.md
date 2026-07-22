@@ -1,4 +1,4 @@
-# ai-navigated-freestyle-testing
+# AI-Navigated-Freestyle-Testing
 
 論文「AIナビゲーション型フリースタイルテストの提案」で使用した、**テストナビプロンプト**を公開するリポジトリです。
 
